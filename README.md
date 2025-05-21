@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Akzhan 👋</h1>
-<p align="center">
-  Backend Developer • Python Enthusiast • Learning by building
-</p>
+<h3 align="center">Backend Developer • Python Enthusiast • Learning by building</h3>
+
 
 ---
 
@@ -14,8 +13,8 @@ Currently learning and growing through personal projects, open-source contributi
 - 🔁 Learning **Celery**, **Redis**, and CI/CD practices
 - 🔍 Exploring systems design and microservice architecture
 - 🎯 Long-term goal: become a Software Engineer working globally
----
 
+---
 ### 🧩 Tech Stack
 
 - **Languages**: Python, JavaScript (basic)
@@ -33,10 +32,29 @@ Currently learning and growing through personal projects, open-source contributi
 | BudgetWise      | Personal finance manager with budget tracking and stats  | FastAPI, PostgreSQL, Docker      |
 | PromptCraft     | API to save, analyze, and improve AI prompts              | FastAPI, Redis, OpenAI API       |
 | InvenTrack (WIP)| Inventory management system with gRPC microservices       | FastAPI, gRPC, PostgreSQL        |
-| ChillChair      | CRUD web app to rate and review public benches 😄         | Django, PostgreSQL, Docker       |
+| ChillChair      | CRUD web app to rate and review public benches        | Django, PostgreSQL, Docker       |
 
 > You can find more in my [Repositories](https://github.com/AkiAkzh?tab=repositories)
 
+---
+## 📈 GitHub Activity
+
+<details>
+  <summary>Click to see my stats</summary>
+  <br>
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AkiAkzh&show_icons=true&theme=default&count_private=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AkiAkzh&layout=compact" />
+      </td>
+    </tr>
+  </table>
+
+</details>
 
 
 ### 📫 How to Reach Me

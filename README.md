@@ -15,13 +15,35 @@ Currently learning and growing through personal projects, open-source contributi
 - 🎯 Long-term goal: become a Software Engineer working globally
 
 ---
-### 🧩 Tech Stack
+## 🧩 Tech Stack
 
-- **Languages**: Python, JavaScript (basic)
-- **Frameworks**: FastAPI, Node.js
-- **Databases**: PostgreSQL, MongoDB
-- **Tools**: Docker, Git, Redis, Celery, GitHub Actions
-- **Practices**: REST APIs, SOLID principles, Clean Architecture, DRY, KISS
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🧰 Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-654321?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🧠 IDEs
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
+### 📐 Practices & Principles
+`REST APIs` • `SOLID` • `Clean Architecture` • `DRY` • `KISS`
 
 ---
 

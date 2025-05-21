@@ -47,16 +47,15 @@ Currently learning and growing through personal projects, open-source contributi
 
 ---
 
-### 🚧 Highlight Projects
+### 🚀 Highlight Projects
 
 | Project         | Description                                               | Stack                            |
 |-----------------|-----------------------------------------------------------|----------------------------------|
 | BudgetWise      | Personal finance manager with budget tracking and stats  | FastAPI, PostgreSQL, Docker      |
-| PromptCraft     | API to save, analyze, and improve AI prompts              | FastAPI, Redis, OpenAI API       |
-| InvenTrack (WIP)| Inventory management system with gRPC microservices       | FastAPI, gRPC, PostgreSQL        |
-| ChillChair      | CRUD web app to rate and review public benches        | Django, PostgreSQL, Docker       |
+| Docs            | Document automation system with placeholder injection and PDF export | FastAPI, MongoDB, Microservices  |
 
 > You can find more in my [Repositories](https://github.com/AkiAkzh?tab=repositories)
+
 
 ---
 ## 📈 GitHub Activity
